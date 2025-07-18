@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "设置";
+"languages" = "语言";
+"done" = "完成";
+"cancel" = "取消";
+"ok" = "确定";
+
+// Keyboard settings
+"keyboard" = "键盘";
+"haptic_strength" = "触觉反馈";
+"weak" = "弱";
+"medium" = "中";
+"strong" = "强";
+"keyboard_sound" = "按键声音";
+
+// Error messages
+"error" = "错误";
+"future_date_error" = "检测到系统日期错误。设备日期设置为未来年份，这阻止了货币数据的加载。请检查并更正您的日期设置。";
+"future_date_alert" = "系统日期来自未来。请更新应用程序。";
+
+// Theme settings
+"theme" = "主题";
+"theme_selection" = "主题选择";
+"classic" = "经典";
+"modern" = "现代";
+"changing_theme" = "正在更改主题…";
+
+// Currency converter
+"enter_amount" = "输入金额";
+"select_currency" = "选择货币";
+"convert" = "转换";
+"result" = "结果";
+"converter" = "转换器";
+"currencies" = "货币";
+"search" = "搜索";
+"last_updated" = "最后更新：%@";
+"last_update" = "最后更新";
+"copy" = "复制";
+"add_currency" = "添加货币";
+"delete" = "删除";
+"edit" = "编辑";
+"edit_mode_hint" = "使用红色按钮删除货币或拖拽重新排序";
+
+// History view
+"history" = "历史记录";
+"no_history" = "无转换历史记录";
+"clear_history" = "清除历史记录";
+"currency_history" = "货币历史";
+"period" = "时间段";
+"chart_not_available" = "图表需要 iOS 16.0+";
+"min" = "最低：%@";
+"max" = "最高：%@";
+"close" = "关闭";
+"date" = "日期";
+"rate" = "汇率";
+"no_data_for_display" = "无数据可显示。\n请选择其他时间段或货币。";
+"retry" = "重试";
+"using_demo_data" = "使用 %@ 的演示数据";
+"no_data_for_period" = "所选时间段无数据";
+"failed_to_load_data" = "无法加载所选货币对的数据。";
+"check_system_date" = "请检查设备的系统日期。日期不应来自未来。";
+"loading_data" = "正在加载数据...";
+"no_data" = "无数据";
+"texture_not_found" = "未找到纹理";
+"no_data_available" = "无可用数据";
+"api_unavailable" = "货币数据API当前不可用。使用离线模式。";
+"try_again" = "重试";
+
+// Currency types
+"fiat_currencies" = "法定货币";
+"cryptocurrencies" = "加密货币";
+"precious_metals" = "贵金属";
+"deprecated_currencies" = "已弃用货币";
+"show_deprecated" = "显示已弃用货币";
+
+// Time periods
+"1d" = "1日";
+"1w" = "1周";
+"1m" = "1月";
+"3m" = "3月";
+"6m" = "6月";
+"1y" = "1年";
+"7_days" = "7天";
+"1_month" = "1个月";
+"3_months" = "3个月";
+"6_months" = "6个月";
+"1_year" = "1年";
+"2_years" = "2年";
+"5_years" = "5年";
+
+// Stats
+"open" = "开盘";
+"high" = "最高";
+"low" = "最低";
+"close" = "收盘";
+"volume" = "成交量";
+"change" = "变化";
+
+// Theme names
+"theme_classic_light" = "经典浅色";
+"theme_classic_dark" = "经典深色";
+"theme_modern_light" = "现代浅色";
+"theme_modern_dark" = "现代深色";
+"theme_standard" = "标准";
+"theme_modern" = "现代";
+"theme_dark" = "深色";
+
+// Calculator
+"calculator" = "计算器";
+
+// Precious metals
+"gold" = "黄金";
+"silver" = "白银";
+"palladium" = "钯金";
+"platinum" = "铂金"; 

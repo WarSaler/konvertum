@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Instellingen";
+"languages" = "Talen";
+"done" = "Klaar";
+"cancel" = "Annuleren";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Toetsenbord";
+"haptic_strength" = "Haptische feedback";
+"weak" = "Zwak";
+"medium" = "Gemiddeld";
+"strong" = "Sterk";
+"keyboard_sound" = "Toetsgeluid";
+
+// Error messages
+"error" = "Fout";
+"future_date_error" = "Systeemdatumfout gedetecteerd. De datum van het apparaat is ingesteld op een toekomstig jaar.";
+"future_date_alert" = "Systeemdatum ligt in de toekomst. Werk de app bij.";
+
+// Theme settings
+"theme" = "Thema";
+"theme_selection" = "Thema selectie";
+"classic" = "Klassiek";
+"modern" = "Modern";
+"changing_theme" = "Thema wijzigen…";
+
+// Currency converter
+"enter_amount" = "Bedrag invoeren";
+"select_currency" = "Valuta selecteren";
+"convert" = "Converteren";
+"result" = "Resultaat";
+"converter" = "Converter";
+"currencies" = "Valuta's";
+"search" = "Zoeken";
+"last_updated" = "Laatst bijgewerkt: %@";
+"last_update" = "Last update";
+"copy" = "Kopiëren";
+"add_currency" = "Valuta toevoegen";
+"delete" = "Verwijderen";
+"edit" = "Bewerken";
+"edit_mode_hint" = "Verwijder valuta's met de rode knop of sleep om de volgorde te wijzigen";
+
+// History view
+"history" = "Geschiedenis";
+"no_history" = "Geen conversiegeschiedenis";
+"clear_history" = "Geschiedenis wissen";
+"currency_history" = "Valutageschiedenis";
+"period" = "Periode";
+"chart_not_available" = "Grafiek beschikbaar op iOS 16.0+";
+"min" = "Min: %@";
+"max" = "Max: %@";
+"close" = "Sluiten";
+"date" = "Datum";
+"rate" = "Koers";
+"no_data_for_display" = "Geen gegevens om weer te geven.\nSelecteer een andere periode of valuta's.";
+"retry" = "Opnieuw proberen";
+"using_demo_data" = "Demo-gegevens gebruiken voor %@";
+"no_data_for_period" = "Geen gegevens voor de geselecteerde periode";
+"failed_to_load_data" = "Laden van gegevens voor het geselecteerde valutapaar mislukt.";
+"check_system_date" = "Controleer de systeemdatum van uw apparaat. De datum mag niet in de toekomst liggen.";
+"loading_data" = "Gegevens laden...";
+"no_data" = "Geen gegevens";
+"texture_not_found" = "Textuur niet gevonden";
+"no_data_available" = "Geen gegevens beschikbaar";
+"api_unavailable" = "De valutagegevens-API is momenteel niet beschikbaar. Offline modus wordt gebruikt.";
+"try_again" = "Opnieuw proberen";
+
+// Currency types
+"fiat_currencies" = "Fiat-valuta's";
+"cryptocurrencies" = "Cryptovaluta";
+"precious_metals" = "Edelmetalen";
+"deprecated_currencies" = "Verouderde valuta's";
+"show_deprecated" = "Verouderde valuta's tonen";
+
+// Time periods
+"1d" = "1D";
+"1w" = "1W";
+"1m" = "1M";
+"3m" = "3M";
+"6m" = "6M";
+"1y" = "1J";
+"7_days" = "7 dagen";
+"1_month" = "1 maand";
+"3_months" = "3 maanden";
+"6_months" = "6 maanden";
+"1_year" = "1 jaar";
+"2_years" = "2 jaar";
+"5_years" = "5 jaar";
+
+// Stats
+"open" = "Opening";
+"high" = "Hoog";
+"low" = "Laag";
+"close" = "Sluiting";
+"volume" = "Volume";
+"change" = "Verandering";
+
+// Theme names
+"theme_classic_light" = "Klassiek licht";
+"theme_classic_dark" = "Klassiek donker";
+"theme_modern_light" = "Modern licht";
+"theme_modern_dark" = "Modern donker";
+"theme_standard" = "Standaard";
+"theme_modern" = "Modern";
+"theme_dark" = "Donker";
+
+// Calculator
+"calculator" = "Rekenmachine";
+
+// Precious metals
+"gold" = "Goud";
+"silver" = "Zilver";
+"palladium" = "Palladium";
+"platinum" = "Platina"; 

@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Configurações";
+"languages" = "Idiomas";
+"done" = "Concluído";
+"cancel" = "Cancelar";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Teclado";
+"haptic_strength" = "Força Háptica";
+"weak" = "Fraco";
+"medium" = "Médio";
+"strong" = "Forte";
+"keyboard_sound" = "Som do Teclado";
+
+// Error messages
+"error" = "Erro";
+"future_date_error" = "Erro de data do sistema detectado. A data do dispositivo está definida para um ano futuro.";
+"future_date_alert" = "Data do sistema é do futuro. Por favor, atualize o aplicativo.";
+
+// Theme settings
+"theme" = "Tema";
+"theme_selection" = "Seleção de Tema";
+"classic" = "Clássico";
+"modern" = "Moderno";
+"changing_theme" = "Alterando tema…";
+
+// Currency converter
+"enter_amount" = "Digite o valor";
+"select_currency" = "Selecione a moeda";
+"convert" = "Converter";
+"result" = "Resultado";
+"converter" = "Conversor de Moedas";
+"currencies" = "Moedas";
+"search" = "Buscar";
+"last_updated" = "Última atualização: %@";
+"last_update" = "Last update";
+"copy" = "Copiar";
+"add_currency" = "Adicionar moeda";
+"delete" = "Excluir";
+"edit" = "Editar";
+"edit_mode_hint" = "Exclua moedas com o botão vermelho ou arraste para reordenar";
+
+// History view
+"history" = "Histórico";
+"no_history" = "Nenhum histórico de conversão";
+"clear_history" = "Limpar histórico";
+"currency_history" = "Histórico de moeda";
+"period" = "Período";
+"chart_not_available" = "Gráfico disponível no iOS 16 e superior";
+"min" = "Mín: %@";
+"max" = "Máx: %@";
+"close" = "Fechar";
+"date" = "Data";
+"rate" = "Taxa";
+"no_data_for_display" = "Nenhum dado para exibir.\nSelecione outro período ou moedas.";
+"retry" = "Tentar novamente";
+"using_demo_data" = "Usando dados de demonstração para %@";
+"no_data_for_period" = "Nenhum dado para o período selecionado";
+"failed_to_load_data" = "Falha ao carregar dados para o par de moedas selecionado.";
+"check_system_date" = "Verifique a data do sistema no dispositivo. A data não deve ser do futuro.";
+"loading_data" = "Carregando dados...";
+"no_data" = "Nenhum dado";
+"texture_not_found" = "Textura não encontrada";
+"no_data_available" = "Dados não disponíveis";
+"api_unavailable" = "API de taxas de câmbio está indisponível no momento. Usando modo offline.";
+"try_again" = "Tentar novamente";
+
+// Currency types
+"fiat_currencies" = "Moedas Fiduciárias";
+"cryptocurrencies" = "Criptomoedas";
+"precious_metals" = "Metais Preciosos";
+"deprecated_currencies" = "Moedas Descontinuadas";
+"show_deprecated" = "Mostrar moedas descontinuadas";
+
+// Time periods
+"1d" = "1D";
+"1w" = "1S";
+"1m" = "1M";
+"3m" = "3M";
+"6m" = "6M";
+"1y" = "1A";
+"7_days" = "7 dias";
+"1_month" = "1 mês";
+"3_months" = "3 meses";
+"6_months" = "6 meses";
+"1_year" = "1 ano";
+"2_years" = "2 anos";
+"5_years" = "5 anos";
+
+// Stats
+"open" = "Abertura";
+"high" = "Alta";
+"low" = "Baixa";
+"close" = "Fechamento";
+"volume" = "Volume";
+"change" = "Mudança";
+
+// Theme names
+"theme_classic_light" = "Clássico Claro";
+"theme_classic_dark" = "Clássico Escuro";
+"theme_modern_light" = "Moderno Claro";
+"theme_modern_dark" = "Moderno Escuro";
+"theme_standard" = "Padrão";
+"theme_modern" = "Moderno";
+"theme_dark" = "Escuro";
+
+// Calculator
+"calculator" = "Calculadora";
+
+// Precious metals
+"gold" = "Ouro";
+"silver" = "Prata";
+"palladium" = "Paládio";
+"platinum" = "Platina";

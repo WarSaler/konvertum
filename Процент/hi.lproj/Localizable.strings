@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "सेटिंग्स";
+"languages" = "भाषाएं";
+"done" = "हो गया";
+"cancel" = "रद्द करें";
+"ok" = "ठीक";
+
+// Keyboard settings
+"keyboard" = "कीबोर्ड";
+"haptic_strength" = "हैप्टिक शक्ति";
+"weak" = "कमजोर";
+"medium" = "मध्यम";
+"strong" = "मजबूत";
+"keyboard_sound" = "कीबोर्ड आवाज";
+
+// Error messages
+"error" = "त्रुटि";
+"future_date_error" = "सिस्टम दिनांक त्रुटि का पता चला। डिवाइस की तारीख भविष्य के साल पर सेट है, जो मुद्रा डेटा लोड करने से रोकती है। कृपया अपनी दिनांक सेटिंग्स जांचें और सुधारें।";
+"future_date_alert" = "सिस्टम तारीख भविष्य से है। कृपया ऐप अपडेट करें।";
+
+// Theme settings
+"theme" = "थीम";
+"theme_selection" = "थीम चयन";
+"classic" = "क्लासिक";
+"modern" = "आधुनिक";
+"changing_theme" = "थीम बदल रहे हैं…";
+
+// Currency converter
+"enter_amount" = "राशि दर्ज करें";
+"select_currency" = "मुद्रा चुनें";
+"convert" = "रूपांतरित करें";
+"result" = "परिणाम";
+"converter" = "मुद्रा कनवर्टर";
+"currencies" = "मुद्राएं";
+"search" = "खोजें";
+"last_updated" = "अंतिम अपडेट: %@";
+"last_update" = "Last update";
+"copy" = "कॉपी करें";
+"add_currency" = "मुद्रा जोड़ें";
+"delete" = "हटाएं";
+"edit" = "संपादित करें";
+"edit_mode_hint" = "लाल बटन से मुद्राएं हटाएं या पुनः व्यवस्थित करने के लिए खींचें";
+
+// History view
+"history" = "इतिहास";
+"no_history" = "कोई रूपांतरण इतिहास नहीं";
+"clear_history" = "इतिहास साफ़ करें";
+"currency_history" = "मुद्रा इतिहास";
+"period" = "अवधि";
+"chart_not_available" = "चार्ट iOS 16 और उसके बाद में उपलब्ध है";
+"min" = "न्यूनतम: %@";
+"max" = "अधिकतम: %@";
+"close" = "बंद करें";
+"date" = "दिनांक";
+"rate" = "दर";
+"no_data_for_display" = "प्रदर्शित करने के लिए कोई डेटा नहीं।\nकृपया दूसरी अवधि या मुद्राएं चुनें।";
+"retry" = "पुनः प्रयास करें";
+"using_demo_data" = "%@ के लिए डेमो डेटा का उपयोग";
+"no_data_for_period" = "चयनित अवधि के लिए कोई डेटा नहीं";
+"failed_to_load_data" = "चयनित मुद्रा जोड़ी के लिए डेटा लोड करने में विफल।";
+"check_system_date" = "डिवाइस पर सिस्टम दिनांक जांचें। दिनांक भविष्य से नहीं होनी चाहिए।";
+"loading_data" = "डेटा लोड हो रहा है...";
+"no_data" = "कोई डेटा नहीं";
+"texture_not_found" = "टेक्सचर नहीं मिला";
+"no_data_available" = "डेटा उपलब्ध नहीं";
+"api_unavailable" = "मुद्रा दर API वर्तमान में उपलब्ध नहीं है। ऑफ़लाइन मोड का उपयोग।";
+"try_again" = "पुनः प्रयास करें";
+
+// Currency types
+"fiat_currencies" = "फिएट मुद्राएं";
+"cryptocurrencies" = "क्रिप्टोकरेंसी";
+"precious_metals" = "बहुमूल्य धातुएं";
+"deprecated_currencies" = "बंद मुद्राएं";
+"show_deprecated" = "बंद मुद्राएं दिखाएं";
+
+// Time periods
+"1d" = "1दि";
+"1w" = "1स";
+"1m" = "1म";
+"3m" = "3म";
+"6m" = "6म";
+"1y" = "1व";
+"7_days" = "7 दिन";
+"1_month" = "1 महीना";
+"3_months" = "3 महीने";
+"6_months" = "6 महीने";
+"1_year" = "1 वर्ष";
+"2_years" = "2 वर्ष";
+"5_years" = "5 वर्ष";
+
+// Stats
+"open" = "खुला";
+"high" = "उच्च";
+"low" = "निम्न";
+"close" = "बंद";
+"volume" = "वॉल्यूम";
+"change" = "परिवर्तन";
+
+// Theme names
+"theme_classic_light" = "क्लासिक लाइट";
+"theme_classic_dark" = "क्लासिक डार्क";
+"theme_modern_light" = "आधुनिक लाइट";
+"theme_modern_dark" = "आधुनिक डार्क";
+"theme_standard" = "मानक";
+"theme_modern" = "आधुनिक";
+"theme_dark" = "डार्क";
+
+// Calculator
+"calculator" = "कैलकुलेटर";
+
+// Precious metals
+"gold" = "सोना";
+"silver" = "चांदी";
+"palladium" = "पैलेडियम";
+"platinum" = "प्लैटिनम";

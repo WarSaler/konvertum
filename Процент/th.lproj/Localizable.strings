@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "การตั้งค่า";
+"languages" = "ภาษา";
+"done" = "เสร็จสิ้น";
+"cancel" = "ยกเลิก";
+"ok" = "ตกลง";
+
+// Keyboard settings
+"keyboard" = "แป้นพิมพ์";
+"haptic_strength" = "ความแรงการสั่น";
+"weak" = "อ่อน";
+"medium" = "ปานกลาง";
+"strong" = "แรง";
+"keyboard_sound" = "เสียงแป้นพิมพ์";
+
+// Error messages
+"error" = "ข้อผิดพลาด";
+"future_date_error" = "ตรวจพบข้อผิดพลาดวันที่ระบบ วันที่อุปกรณ์ตั้งไว้เป็นปีในอนาคต ซึ่งป้องกันการโหลดข้อมูลอัตราแลกเปลี่ยน โปรดตรวจสอบและแก้ไขการตั้งค่าวันที่";
+"future_date_alert" = "วันที่ระบบมาจากอนาคต โปรดอัปเดตแอป";
+
+// Theme settings
+"theme" = "ธีม";
+"theme_selection" = "การเลือกธีม";
+"classic" = "คลาสสิก";
+"modern" = "โมเดิร์น";
+"changing_theme" = "กำลังเปลี่ยนธีม…";
+
+// Currency converter
+"enter_amount" = "ป้อนจำนวนเงิน";
+"select_currency" = "เลือกสกุลเงิน";
+"convert" = "แปลงค่า";
+"result" = "ผลลัพธ์";
+"converter" = "ตัวแปลงสกุลเงิน";
+"currencies" = "สกุลเงิน";
+"search" = "ค้นหา";
+"last_updated" = "อัปเดตล่าสุด: %@";
+"last_update" = "Last update";
+"copy" = "คัดลอก";
+"add_currency" = "เพิ่มสกุลเงิน";
+"delete" = "ลบ";
+"edit" = "แก้ไข";
+"edit_mode_hint" = "ลบสกุลเงินด้วยปุ่มสีแดงหรือลากเพื่อเรียงลำดับใหม่";
+
+// History view
+"history" = "ประวัติ";
+"no_history" = "ไม่มีประวัติการแปลงค่า";
+"clear_history" = "ล้างประวัติ";
+"currency_history" = "ประวัติสกุลเงิน";
+"period" = "ช่วงเวลา";
+"chart_not_available" = "แผนภูมิใช้ได้บน iOS 16 ขึ้นไป";
+"min" = "ต่ำสุด: %@";
+"max" = "สูงสุด: %@";
+"close" = "ปิด";
+"date" = "วันที่";
+"rate" = "อัตรา";
+"no_data_for_display" = "ไม่มีข้อมูลที่จะแสดง\nโปรดเลือกช่วงเวลาหรือสกุลเงินอื่น";
+"retry" = "ลองใหม่";
+"using_demo_data" = "ใช้ข้อมูลสาธิตสำหรับ %@";
+"no_data_for_period" = "ไม่มีข้อมูลสำหรับช่วงเวลาที่เลือก";
+"failed_to_load_data" = "ไม่สามารถโหลดข้อมูลสำหรับคู่สกุลเงินที่เลือก";
+"check_system_date" = "ตรวจสอบวันที่ระบบบนอุปกรณ์ วันที่ต้องไม่เป็นวันในอนาคต";
+"loading_data" = "กำลังโหลดข้อมูล...";
+"no_data" = "ไม่มีข้อมูล";
+"texture_not_found" = "ไม่พบเท็กซ์เจอร์";
+"no_data_available" = "ไม่มีข้อมูล";
+"api_unavailable" = "API อัตราแลกเปลี่ยนไม่สามารถใช้งานได้ในขณะนี้ ใช้โหมดออฟไลน์";
+"try_again" = "ลองใหม่";
+
+// Currency types
+"fiat_currencies" = "สกุลเงินธรรมดา";
+"cryptocurrencies" = "สกุลเงินดิจิทัล";
+"precious_metals" = "โลหะมีค่า";
+"deprecated_currencies" = "สกุลเงินที่เลิกใช้";
+"show_deprecated" = "แสดงสกุลเงินที่เลิกใช้";
+
+// Time periods
+"1d" = "1วัน";
+"1w" = "1สัปดาห์";
+"1m" = "1เดือน";
+"3m" = "3เดือน";
+"6m" = "6เดือน";
+"1y" = "1ปี";
+"7_days" = "7 วัน";
+"1_month" = "1 เดือน";
+"3_months" = "3 เดือน";
+"6_months" = "6 เดือน";
+"1_year" = "1 ปี";
+"2_years" = "2 ปี";
+"5_years" = "5 ปี";
+
+// Stats
+"open" = "เปิด";
+"high" = "สูงสุด";
+"low" = "ต่ำสุด";
+"close" = "ปิด";
+"volume" = "ปริมาณ";
+"change" = "การเปลี่ยนแปลง";
+
+// Theme names
+"theme_classic_light" = "คลาสสิกสว่าง";
+"theme_classic_dark" = "คลาสสิกมืด";
+"theme_modern_light" = "โมเดิร์นสว่าง";
+"theme_modern_dark" = "โมเดิร์นมืด";
+"theme_standard" = "มาตรฐาน";
+"theme_modern" = "โมเดิร์น";
+"theme_dark" = "มืด";
+
+// Calculator
+"calculator" = "เครื่องคิดเลข";
+
+// Precious metals
+"gold" = "ทองคำ";
+"silver" = "เงิน";
+"palladium" = "แพลเลเดียม";
+"platinum" = "แพลทินัม";

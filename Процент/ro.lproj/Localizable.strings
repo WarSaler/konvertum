@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Setări";
+"languages" = "Limbi";
+"done" = "Gata";
+"cancel" = "Anulare";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Tastatură";
+"haptic_strength" = "Intensitate haptică";
+"weak" = "Slabă";
+"medium" = "Medie";
+"strong" = "Puternică";
+"keyboard_sound" = "Sunet tastatură";
+
+// Error messages
+"error" = "Eroare";
+"future_date_error" = "Eroare de dată sistem detectată. Data dispozitivului este setată în viitor.";
+"future_date_alert" = "Data sistemului este din viitor. Vă rugăm să actualizați aplicația.";
+
+// Theme settings
+"theme" = "Temă";
+"theme_selection" = "Selectare temă";
+"classic" = "Clasic";
+"modern" = "Modern";
+"changing_theme" = "Se schimbă tema…";
+
+// Currency converter
+"enter_amount" = "Introduceți suma";
+"select_currency" = "Selectați valuta";
+"convert" = "Convertire";
+"result" = "Rezultat";
+"converter" = "Convertor valutar";
+"currencies" = "Valute";
+"search" = "Căutare";
+"last_updated" = "Ultima actualizare: %@";
+"last_update" = "Last update";
+"copy" = "Copiere";
+"add_currency" = "Adaugă valută";
+"delete" = "Șterge";
+"edit" = "Editare";
+"edit_mode_hint" = "Ștergeți valutele cu butonul roșu sau trageți pentru reordonare";
+
+// History view
+"history" = "Istoric";
+"no_history" = "Niciun istoric de conversie";
+"clear_history" = "Șterge istoricul";
+"currency_history" = "Istoric valutar";
+"period" = "Perioadă";
+"chart_not_available" = "Graficul este disponibil pe iOS 16 și versiuni ulterioare";
+"min" = "Min %@";
+"max" = "Max %@";
+"close" = "Închide";
+"date" = "Data";
+"rate" = "Curs";
+"no_data_for_display" = "Nu există date de afișat.\nVă rugăm să selectați altă perioadă sau valute.";
+"retry" = "Reîncercare";
+"using_demo_data" = "Se folosesc date demo pentru %@";
+"no_data_for_period" = "Nu există date pentru perioada selectată";
+"failed_to_load_data" = "Nu s-au putut încărca datele pentru perechea de valute selectată.";
+"check_system_date" = "Verificați data sistemului pe dispozitiv. Data nu trebuie să fie din viitor.";
+"loading_data" = "Se încarcă datele...";
+"no_data" = "Nu există date";
+"texture_not_found" = "Textura nu a fost găsită";
+"no_data_available" = "Datele nu sunt disponibile";
+"api_unavailable" = "API-ul cursurilor valutare este momentan indisponibil. Se folosește modul offline.";
+"try_again" = "Încearcă din nou";
+
+// Currency types
+"fiat_currencies" = "Valute fiat";
+"cryptocurrencies" = "Criptomonede";
+"precious_metals" = "Metale prețioase";
+"deprecated_currencies" = "Valute depreciate";
+"show_deprecated" = "Afișează valutele depreciate";
+
+// Time periods
+"1d" = "1Z";
+"1w" = "1S";
+"1m" = "1L";
+"3m" = "3L";
+"6m" = "6L";
+"1y" = "1A";
+"7_days" = "7 zile";
+"1_month" = "1 lună";
+"3_months" = "3 luni";
+"6_months" = "6 luni";
+"1_year" = "1 an";
+"2_years" = "2 ani";
+"5_years" = "5 ani";
+
+// Stats
+"open" = "Deschidere";
+"high" = "Maxim";
+"low" = "Minim";
+"close" = "Închidere";
+"volume" = "Volum";
+"change" = "Variație";
+
+// Theme names
+"theme_classic_light" = "Clasic Luminos";
+"theme_classic_dark" = "Clasic Întunecat";
+"theme_modern_light" = "Modern Luminos";
+"theme_modern_dark" = "Modern Întunecat";
+"theme_standard" = "Standard";
+"theme_modern" = "Modern";
+"theme_dark" = "Întunecată";
+
+// Calculator
+"calculator" = "Calculator";
+
+// Precious metals
+"gold" = "Aur";
+"silver" = "Argint";
+"palladium" = "Paladiu";
+"platinum" = "Platină";

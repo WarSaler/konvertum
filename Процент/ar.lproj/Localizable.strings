@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "الإعدادات";
+"languages" = "اللغات";
+"done" = "تم";
+"cancel" = "إلغاء";
+"ok" = "موافق";
+
+// Keyboard settings
+"keyboard" = "لوحة المفاتيح";
+"haptic_strength" = "قوة الاهتزاز";
+"weak" = "ضعيف";
+"medium" = "متوسط";
+"strong" = "قوي";
+"keyboard_sound" = "صوت المفاتيح";
+
+// Error messages
+"error" = "خطأ";
+"future_date_error" = "تم اكتشاف خطأ في تاريخ النظام. تاريخ الجهاز مضبوط على سنة مستقبلية، مما يمنع تحميل بيانات أسعار الصرف. يرجى التحقق من إعدادات التاريخ وتصحيحها.";
+"future_date_alert" = "تاريخ النظام من المستقبل. يرجى تحديث التطبيق.";
+
+// Theme settings
+"theme" = "السمة";
+"theme_selection" = "اختيار السمة";
+"classic" = "كلاسيكي";
+"modern" = "عصري";
+"changing_theme" = "تغيير السمة…";
+
+// Currency converter
+"enter_amount" = "أدخل المبلغ";
+"select_currency" = "اختر العملة";
+"convert" = "تحويل";
+"result" = "النتيجة";
+"converter" = "محول العملات";
+"currencies" = "العملات";
+"search" = "بحث";
+"last_updated" = "آخر تحديث: %@";
+"last_update" = "آخر تحديث";
+"copy" = "نسخ";
+"add_currency" = "إضافة عملة";
+"delete" = "حذف";
+"edit" = "تحرير";
+"edit_mode_hint" = "احذف العملات بالزر الأحمر أو اسحب لتغيير الترتيب";
+
+// History view
+"history" = "السجل";
+"no_history" = "لا يوجد سجل تحويل";
+"clear_history" = "مسح السجل";
+"currency_history" = "تاريخ العملة";
+"period" = "الفترة";
+"chart_not_available" = "الرسم البياني متاح على iOS 16 وما فوق";
+"min" = "الحد الأدنى %@";
+"max" = "الحد الأقصى %@";
+"close" = "إغلاق";
+"date" = "التاريخ";
+"rate" = "السعر";
+"no_data_for_display" = "لا توجد بيانات للعرض.\nيرجى اختيار فترة أو عملات أخرى.";
+"retry" = "إعادة المحاولة";
+"using_demo_data" = "استخدام بيانات تجريبية لـ %@";
+"no_data_for_period" = "لا توجد بيانات للفترة المحددة";
+"failed_to_load_data" = "فشل في تحميل البيانات لزوج العملات المحدد.";
+"check_system_date" = "تحقق من تاريخ النظام على الجهاز. التاريخ يجب ألا يكون من المستقبل.";
+"loading_data" = "تحميل البيانات...";
+"no_data" = "لا توجد بيانات";
+"texture_not_found" = "لم يتم العثور على الملمس";
+"no_data_available" = "البيانات غير متاحة";
+"api_unavailable" = "واجهة برمجة التطبيقات لأسعار الصرف غير متاحة حالياً. يتم استخدام الوضع غير المتصل.";
+"try_again" = "حاول مرة أخرى";
+
+// Currency types
+"fiat_currencies" = "العملات التقليدية";
+"cryptocurrencies" = "العملات المشفرة";
+"precious_metals" = "المعادن الثمينة";
+"deprecated_currencies" = "العملات المهجورة";
+"show_deprecated" = "إظهار العملات المهجورة";
+
+// Time periods
+"1d" = "١ي";
+"1w" = "١أ";
+"1m" = "١ش";
+"3m" = "٣ش";
+"6m" = "٦ش";
+"1y" = "١س";
+"7_days" = "٧ أيام";
+"1_month" = "شهر واحد";
+"3_months" = "٣ أشهر";
+"6_months" = "٦ أشهر";
+"1_year" = "سنة واحدة";
+"2_years" = "سنتان";
+"5_years" = "٥ سنوات";
+
+// Stats
+"open" = "الافتتاح";
+"high" = "الأعلى";
+"low" = "الأدنى";
+"close" = "الإغلاق";
+"volume" = "الحجم";
+"change" = "التغيير";
+
+// Theme names
+"theme_classic_light" = "كلاسيكي فاتح";
+"theme_classic_dark" = "كلاسيكي داكن";
+"theme_modern_light" = "عصري فاتح";
+"theme_modern_dark" = "عصري داكن";
+"theme_standard" = "قياسي";
+"theme_modern" = "عصري";
+"theme_dark" = "داكن";
+
+// Calculator
+"calculator" = "الآلة الحاسبة";
+
+// Precious metals
+"gold" = "ذهب";
+"silver" = "فضة";
+"palladium" = "بلاديوم";
+"platinum" = "بلاتين";

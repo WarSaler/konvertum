@@ -1,0 +1,119 @@
+"settings" = "Настройки";
+"languages" = "Языки";
+"done" = "Готово";
+"cancel" = "Отмена";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Клавиатура";
+"haptic_strength" = "Интенсивность вибро";
+"weak" = "Слабый";
+"medium" = "Средний";
+"strong" = "Сильный";
+"keyboard_sound" = "Звук нажатия клавиш";
+
+// Error messages
+"error" = "Ошибка";
+"future_date_error" = "Обнаружена ошибка системной даты. Дата на устройстве установлена на будущий год, что препятствует загрузке данных о курсах валют. Пожалуйста, проверьте и исправьте настройки даты.";
+"future_date_alert" = "Системная дата из будущего. Пожалуйста, обновите приложение.";
+
+// Theme settings
+"theme" = "Тема";
+"theme_selection" = "Выбор темы";
+"classic" = "Классическая";
+"modern" = "Современная";
+"changing_theme" = "Изменение темы…";
+
+// Currency converter
+"enter_amount" = "Введите сумму";
+"select_currency" = "Выберите валюту";
+"convert" = "Конвертировать";
+"result" = "Результат";
+"converter" = "Конвертум";
+"currencies" = "Валюты";
+"search" = "Поиск";
+"last_updated" = "Обновлено: %@";
+"last_update" = "Последнее обновление";
+"copy" = "Копировать";
+"add_currency" = "Добавить валюту";
+"delete" = "Удалить";
+"edit" = "Править";
+"edit_mode_hint" = "Удаляйте валюты красной кнопкой или перетаскивайте за значок ≡ для изменения порядка";
+
+// History view
+"history" = "История";
+"no_history" = "История конвертаций пуста";
+"clear_history" = "Очистить историю";
+"currency_history" = "История курсов валют";
+"period" = "Период";
+"chart_not_available" = "График недоступен на версиях iOS ниже 16.0";
+"min" = "Мин: %@";
+"max" = "Макс: %@";
+"close" = "Закрыть";
+"date" = "Дата";
+"rate" = "Курс";
+"select_currency" = "Выберите валюту";
+"no_data_for_display" = "Нет данных для отображения.\nПожалуйста, выберите другой период или валюты.";
+"retry" = "Повторить";
+"using_demo_data" = "Используются демонстрационные данные за %@";
+"no_data_for_period" = "Нет данных за выбранный период";
+"failed_to_load_data" = "Не удалось получить данные для выбранной пары валют.";
+"check_system_date" = "Проверьте системную дату на устройстве. Дата не должна быть из будущего.";
+"loading_data" = "Загрузка данных...";
+"no_data" = "Нет данных";
+"texture_not_found" = "Текстура не найдена";
+
+// Time periods
+"1d" = "1Д";
+"1w" = "1Н";
+"1m" = "1М";
+"3m" = "3М";
+"6m" = "6М";
+"1y" = "1Г";
+"7_days" = "7 дней";
+"1_month" = "1 месяц";
+"3_months" = "3 месяца";
+"6_months" = "6 месяцев";
+"1_year" = "1 год";
+"2_years" = "2 года";
+"5_years" = "5 лет";
+
+// Stats
+"open" = "Открытие";
+"high" = "Максимум";
+"low" = "Минимум";
+"close" = "Закрытие";
+"volume" = "Объём";
+"change" = "Изменение";
+
+// Theme names
+"theme_classic_light" = "Классическая светлая";
+"theme_classic_dark" = "Классическая тёмная";
+"theme_modern_light" = "Современная белая";
+"theme_modern_dark" = "Современная чёрная";
+"theme_standard" = "Стандартная";
+"theme_modern" = "Современная";
+"theme_dark" = "Тёмная";
+
+// Charts and data
+"loading_data" = "Загрузка данных...";
+"no_data_available" = "Данные недоступны";
+"api_unavailable" = "API курсов валют в настоящее время недоступно. Используется автономный режим.";
+"try_again" = "Повторить";
+"zoom_hint" = "Используйте жесты для масштабирования графика";
+
+// Calculator
+"calculator" = "Калькулятор";
+
+// Currency types
+"fiat_currencies" = "Обычные валюты";
+"cryptocurrencies" = "Криптовалюты";
+"precious_metals" = "Драгоценные металлы";
+"deprecated_currencies" = "Устаревшие валюты";
+"show_deprecated" = "Показать устаревшие валюты";
+
+// Precious metals
+"gold" = "Золото";
+"silver" = "Серебро";
+"palladium" = "Палладий";
+"platinum" = "Платина";

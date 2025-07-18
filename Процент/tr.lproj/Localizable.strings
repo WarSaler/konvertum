@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Ayarlar";
+"languages" = "Diller";
+"done" = "Tamam";
+"cancel" = "İptal";
+"ok" = "Tamam";
+
+// Keyboard settings
+"keyboard" = "Klavye";
+"haptic_strength" = "Dokunsal Geri Bildirim";
+"weak" = "Zayıf";
+"medium" = "Orta";
+"strong" = "Güçlü";
+"keyboard_sound" = "Tuş Sesi";
+
+// Error messages
+"error" = "Hata";
+"future_date_error" = "Sistem tarih hatası tespit edildi. Cihaz tarihi gelecek bir yıla ayarlanmış durumda, bu da döviz verilerinin yüklenmesini engelliyor. Lütfen tarih ayarlarınızı kontrol edin ve düzeltin.";
+"future_date_alert" = "Sistem tarihi gelecekten. Lütfen uygulamayı güncelleyin.";
+
+// Theme settings
+"theme" = "Tema";
+"theme_selection" = "Tema Seçimi";
+"classic" = "Klasik";
+"modern" = "Modern";
+"changing_theme" = "Tema değiştiriliyor…";
+
+// Currency converter
+"enter_amount" = "Miktar girin";
+"select_currency" = "Para birimi seçin";
+"convert" = "Çevir";
+"result" = "Sonuç";
+"converter" = "Döviz Çevirici";
+"currencies" = "Para Birimleri";
+"search" = "Ara";
+"last_updated" = "Son güncelleme: %@";
+"last_update" = "Last update";
+"copy" = "Kopyala";
+"add_currency" = "Para birimi ekle";
+"delete" = "Sil";
+"edit" = "Düzenle";
+"edit_mode_hint" = "Kırmızı butonla para birimlerini silin veya sıralamayı değiştirmek için sürükleyin";
+
+// History view
+"history" = "Geçmiş";
+"no_history" = "Dönüşüm geçmişi yok";
+"clear_history" = "Geçmişi temizle";
+"currency_history" = "Para birimi geçmişi";
+"period" = "Dönem";
+"chart_not_available" = "Grafik iOS 16 ve üzerinde kullanılabilir";
+"min" = "Min: %@";
+"max" = "Maks: %@";
+"close" = "Kapat";
+"date" = "Tarih";
+"rate" = "Oran";
+"no_data_for_display" = "Görüntülenecek veri yok.\nLütfen başka bir dönem veya para birimi seçin.";
+"retry" = "Tekrar dene";
+"using_demo_data" = "%@ için demo veriler kullanılıyor";
+"no_data_for_period" = "Seçilen dönem için veri yok";
+"failed_to_load_data" = "Seçilen para birimi çifti için veri yüklenemedi.";
+"check_system_date" = "Cihazdaki sistem tarihini kontrol edin. Tarih gelecekten olmamalı.";
+"loading_data" = "Veriler yükleniyor...";
+"no_data" = "Veri yok";
+"texture_not_found" = "Doku bulunamadı";
+"no_data_available" = "Veri mevcut değil";
+"api_unavailable" = "Döviz kurları API'si şu anda kullanılamıyor. Çevrimdışı modu kullanılıyor.";
+"try_again" = "Tekrar dene";
+
+// Currency types
+"fiat_currencies" = "Fiat Para Birimleri";
+"cryptocurrencies" = "Kripto Para Birimleri";
+"precious_metals" = "Değerli Metaller";
+"deprecated_currencies" = "Kullanımdan Kalkmış Para Birimleri";
+"show_deprecated" = "Kullanımdan kalkmış para birimlerini göster";
+
+// Time periods
+"1d" = "1G";
+"1w" = "1H";
+"1m" = "1A";
+"3m" = "3A";
+"6m" = "6A";
+"1y" = "1Y";
+"7_days" = "7 gün";
+"1_month" = "1 ay";
+"3_months" = "3 ay";
+"6_months" = "6 ay";
+"1_year" = "1 yıl";
+"2_years" = "2 yıl";
+"5_years" = "5 yıl";
+
+// Stats
+"open" = "Açılış";
+"high" = "Yüksek";
+"low" = "Düşük";
+"close" = "Kapanış";
+"volume" = "Hacim";
+"change" = "Değişim";
+
+// Theme names
+"theme_classic_light" = "Klasik Açık";
+"theme_classic_dark" = "Klasik Koyu";
+"theme_modern_light" = "Modern Açık";
+"theme_modern_dark" = "Modern Koyu";
+"theme_standard" = "Standart";
+"theme_modern" = "Modern";
+"theme_dark" = "Koyu";
+
+// Calculator
+"calculator" = "Hesap Makinesi";
+
+// Precious metals
+"gold" = "Altın";
+"silver" = "Gümüş";
+"palladium" = "Paladyum";
+"platinum" = "Platin";

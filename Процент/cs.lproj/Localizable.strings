@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Nastavení";
+"languages" = "Jazyky";
+"done" = "Hotovo";
+"cancel" = "Zrušit";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Klávesnice";
+"haptic_strength" = "Síla haptické odezvy";
+"weak" = "Slabá";
+"medium" = "Střední";
+"strong" = "Silná";
+"keyboard_sound" = "Zvuk klávesnice";
+
+// Error messages
+"error" = "Chyba";
+"future_date_error" = "Byla zjištěna chyba systémového data. Datum zařízení je nastaveno na budoucí rok, což brání načítání dat směnných kurzů. Zkontrolujte a opravte nastavení data.";
+"future_date_alert" = "Systémové datum je z budoucnosti. Aktualizujte aplikaci.";
+
+// Theme settings
+"theme" = "Téma";
+"theme_selection" = "Výběr tématu";
+"classic" = "Klasické";
+"modern" = "Moderní";
+"changing_theme" = "Změna tématu…";
+
+// Currency converter
+"enter_amount" = "Zadejte částku";
+"select_currency" = "Vyberte měnu";
+"convert" = "Převést";
+"result" = "Výsledek";
+"converter" = "Převodník měn";
+"currencies" = "Měny";
+"search" = "Hledat";
+"last_updated" = "Poslední aktualizace: %@";
+"last_update" = "Last update";
+"copy" = "Kopírovat";
+"add_currency" = "Přidat měnu";
+"delete" = "Smazat";
+"edit" = "Upravit";
+"edit_mode_hint" = "Smažte měny červeným tlačítkem nebo přetažením změňte pořadí";
+
+// History view
+"history" = "Historie";
+"no_history" = "Žádná historie převodů";
+"clear_history" = "Vymazat historii";
+"currency_history" = "Historie měny";
+"period" = "Období";
+"chart_not_available" = "Graf je dostupný na iOS 16 a novějších";
+"min" = "Min: %@";
+"max" = "Max: %@";
+"close" = "Zavřít";
+"date" = "Datum";
+"rate" = "Kurz";
+"no_data_for_display" = "Žádná data k zobrazení.\nVyberte jiné období nebo měny.";
+"retry" = "Opakovat";
+"using_demo_data" = "Používání ukázkových dat pro %@";
+"no_data_for_period" = "Žádná data pro zvolené období";
+"failed_to_load_data" = "Nepodařilo se načíst data pro vybraný pár měn.";
+"check_system_date" = "Zkontrolujte systémové datum na zařízení. Datum nesmí být z budoucnosti.";
+"loading_data" = "Načítání dat...";
+"no_data" = "Žádná data";
+"texture_not_found" = "Textura nenalezena";
+"no_data_available" = "Data nejsou k dispozici";
+"api_unavailable" = "API směnných kurzů je aktuálně nedostupné. Používá se offline režim.";
+"try_again" = "Zkusit znovu";
+
+// Currency types
+"fiat_currencies" = "Běžné měny";
+"cryptocurrencies" = "Kryptoměny";
+"precious_metals" = "Drahé kovy";
+"deprecated_currencies" = "Zastaralé měny";
+"show_deprecated" = "Zobrazit zastaralé měny";
+
+// Time periods
+"1d" = "1D";
+"1w" = "1T";
+"1m" = "1M";
+"3m" = "3M";
+"6m" = "6M";
+"1y" = "1R";
+"7_days" = "7 dní";
+"1_month" = "1 měsíc";
+"3_months" = "3 měsíce";
+"6_months" = "6 měsíců";
+"1_year" = "1 rok";
+"2_years" = "2 roky";
+"5_years" = "5 let";
+
+// Stats
+"open" = "Otevírací";
+"high" = "Nejvyšší";
+"low" = "Nejnižší";
+"close" = "Uzavírací";
+"volume" = "Objem";
+"change" = "Změna";
+
+// Theme names
+"theme_classic_light" = "Klasický Světlý";
+"theme_classic_dark" = "Klasický Tmavý";
+"theme_modern_light" = "Moderní Světlý";
+"theme_modern_dark" = "Moderní Tmavý";
+"theme_standard" = "Standardní";
+"theme_modern" = "Moderní";
+"theme_dark" = "Tmavé";
+
+// Calculator
+"calculator" = "Kalkulačka";
+
+// Precious metals
+"gold" = "Zlato";
+"silver" = "Stříbro";
+"palladium" = "Palladium";
+"platinum" = "Platina";

@@ -1,0 +1,111 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Setelan";
+"languages" = "Basa";
+"done" = "Rampung";
+"cancel" = "Batal";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Papan Ketik";
+"haptic_strength" = "Kekuatan Haptic";
+"weak" = "Lemah";
+"medium" = "Sedeng";
+"strong" = "Kuwat";
+"keyboard_sound" = "Swara Papan Ketik";
+
+// Error messages
+"error" = "Kasalahan";
+"future_date_error" = "Kasalahan tanggal sistem katemokno. Tanggal piranti disetel ing taun mangsa.";
+"future_date_alert" = "Tanggal sistem saka mangsa. Mangga anyari aplikasi.";
+
+// Theme settings
+"theme" = "Tema";
+"theme_selection" = "Pilihan tema";
+"classic" = "Klasik";
+"modern" = "Modern";
+"changing_theme" = "Ngganti tema…";
+
+// Currency converter
+"enter_amount" = "Lebokna Nominal";
+"select_currency" = "Pilih mata uang";
+"convert" = "Ngowahi";
+"result" = "Asil";
+"converter" = "Pangowah Mata Uang";
+"currencies" = "Mata Uang";
+"search" = "Nggoleki";
+"last_updated" = "Dianyari: %@";
+"last_update" = "Last update";
+"copy" = "Nyalin";
+"add_currency" = "Tambah mata uang";
+"delete" = "Busak";
+"edit" = "Sunting";
+"edit_mode_hint" = "Busak mata uang nganggo tombol abang utawa seret kanggo ngatur ulang";
+
+// History view
+"history" = "Riwayat";
+"no_history" = "Ora Ana Riwayat Pangowahan";
+"clear_history" = "Busak Riwayat";
+"currency_history" = "Riwayat Mata Uang";
+"period" = "Periode";
+"chart_not_available" = "Grafik kasedhiya ing iOS 16 lan luwih dhuwur";
+"min" = "Minimal %@";
+"max" = "Maksimal %@";
+"close" = "Tutup";
+"date" = "Tanggal";
+"rate" = "Kurs";
+"no_data_for_display" = "Ora ana data kanggo ditampilake.\nMangga pilih periode utawa mata uang liya.";
+"retry" = "Coba maneh";
+"using_demo_data" = "Nggunakake data demo kanggo %@";
+"no_data_for_period" = "Ora ana data kanggo periode sing dipilih";
+"failed_to_load_data" = "Gagal muat data kanggo pasangan mata uang sing dipilih.";
+"check_system_date" = "Priksa tanggal sistem ing piranti. Tanggal kudu ora saka mangsa.";
+"loading_data" = "Muat data...";
+"no_data" = "Ora ana data";
+"texture_not_found" = "Tekstur ora ketemu";
+"no_data_available" = "Data ora kasedhiya";
+"api_unavailable" = "API kurs mata uang saiki ora kasedhiya. Nggunakake mode offline.";
+"try_again" = "Coba maneh";
+
+// Currency types
+"fiat_currencies" = "Mata uang fiat";
+"cryptocurrencies" = "Cryptocurrency";
+"precious_metals" = "Logam mulia";
+"deprecated_currencies" = "Mata uang lawas";
+"show_deprecated" = "Tampilake mata uang lawas";
+
+// Time periods
+"1d" = "1 Dina";
+"1w" = "1 Minggu";
+"1m" = "1 Wulan";
+"3m" = "3 Wulan";
+"6m" = "6 Wulan";
+"1y" = "1 Taun";
+"7_days" = "7 Dina";
+"1_month" = "1 Wulan";
+"3_months" = "3 Wulan";
+"6_months" = "6 Wulan";
+"1_year" = "1 Taun";
+"2_years" = "2 Taun";
+"5_years" = "5 Taun";
+
+// Stats
+"open" = "Mbuka";
+"high" = "Dhuwur";
+"low" = "Cendhek";
+"close" = "Tutup";
+"volume" = "Volume";
+"change" = "Owahan";
+
+// Theme names
+"theme_classic_light" = "Klasik Padhang";
+"theme_classic_dark" = "Klasik Peteng";
+"theme_modern_light" = "Modern Padhang";
+"theme_modern_dark" = "Modern Peteng";
+"theme_standard" = "Standar";
+"theme_modern" = "Modern";
+"theme_dark" = "Peteng";
+
+// Calculator
+"calculator" = "Kalkulator";

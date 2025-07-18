@@ -1,0 +1,117 @@
+// Tiedosto synkronoitu en.lproj/Localizable.strings kanssa
+// Kaikki avaimet yhdenmukaistettu, duplikaatit poistettu, puuttuvat käännökset lisätty venäjästä
+
+"settings" = "Asetukset";
+"languages" = "Kielet";
+"done" = "Valmis";
+"cancel" = "Peruuta";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Näppäimistö";
+"haptic_strength" = "Haptinen voimakkuus";
+"weak" = "Heikko";
+"medium" = "Keskitaso";
+"strong" = "Vahva";
+"keyboard_sound" = "Näppäinäänet";
+
+// Error messages
+"error" = "Virhe";
+"future_date_error" = "Järjestelmän päivämäärävirhe havaittu. Laitteen päivämäärä on asetettu tulevaisuuden vuoteen, mikä estää valuuttadatan lataamisen. Tarkista ja korjaa päivämääräasetuksesi.";
+"future_date_alert" = "Järjestelmän päivämäärä on tulevaisuudesta. Päivitä sovellus.";
+
+// Theme settings
+"theme" = "Teema";
+"theme_selection" = "Teeman valinta";
+"classic" = "Klassinen";
+"modern" = "Moderni";
+"changing_theme" = "Vaihdetaan teemaa…";
+
+// Currency converter
+"enter_amount" = "Syötä summa";
+"select_currency" = "Valitse valuutta";
+"convert" = "Muunna";
+"result" = "Tulos";
+"converter" = "Valuuttamuunnin";
+"currencies" = "Valuutat";
+"search" = "Haku";
+"last_updated" = "Viimeksi päivitetty: %@";
+"last_update" = "Last update";
+"copy" = "Kopioi";
+"add_currency" = "Lisää valuutta";
+"delete" = "Poista";
+"edit" = "Muokkaa";
+"edit_mode_hint" = "Poista valuutat punaisella painikkeella tai vedä järjestyksen muuttamiseksi";
+
+// History view
+"history" = "Historia";
+"no_history" = "Ei muunnoshistoriaa";
+"clear_history" = "Tyhjennä historia";
+"currency_history" = "Valuuttahistoria";
+"period" = "Ajanjakso";
+"chart_not_available" = "Kaavio saatavilla iOS 16:ssa ja uudemmissa";
+"min" = "Min: %@";
+"max" = "Maks: %@";
+"close" = "Sulje";
+"date" = "Päivämäärä";
+"rate" = "Kurssi";
+"no_data_for_display" = "Ei näytettäviä tietoja.\nValitse toinen ajanjakso tai valuutat.";
+"retry" = "Yritä uudelleen";
+"using_demo_data" = "Käytetään demo-dataa %@";
+"no_data_for_period" = "Ei tietoja valitulta ajanjaksolta";
+"failed_to_load_data" = "Tietojen lataaminen valitulle valuuttaparille epäonnistui.";
+"check_system_date" = "Tarkista laitteen järjestelmäpäivämäärä. Päivämäärä ei saa olla tulevaisuudesta.";
+"loading_data" = "Ladataan tietoja...";
+"no_data" = "Ei tietoja";
+"texture_not_found" = "Tekstuuria ei löytynyt";
+"no_data_available" = "Tiedot eivät ole saatavilla";
+"api_unavailable" = "Valuuttakurssien API ei ole tällä hetkellä käytettävissä. Käytetään offline-tilaa.";
+"try_again" = "Yritä uudelleen";
+
+// Currency types
+"fiat_currencies" = "Tavalliset valuutat";
+"cryptocurrencies" = "Kryptovaluutat";
+"precious_metals" = "Jalometallit";
+"deprecated_currencies" = "Vanhentuneet valuutat";
+"show_deprecated" = "Näytä vanhentuneet valuutat";
+
+// Time periods
+"1d" = "1P";
+"1w" = "1V";
+"1m" = "1K";
+"3m" = "3K";
+"6m" = "6K";
+"1y" = "1V";
+"7_days" = "7 päivää";
+"1_month" = "1 kuukausi";
+"3_months" = "3 kuukautta";
+"6_months" = "6 kuukautta";
+"1_year" = "1 vuosi";
+"2_years" = "2 vuotta";
+"5_years" = "5 vuotta";
+
+// Stats
+"open" = "Avaus";
+"high" = "Ylin";
+"low" = "Alin";
+"close" = "Päätös";
+"volume" = "Volyymi";
+"change" = "Muutos";
+
+// Theme names
+"theme_classic_light" = "Klassinen Vaalea";
+"theme_classic_dark" = "Klassinen Tumma";
+"theme_modern_light" = "Moderni Vaalea";
+"theme_modern_dark" = "Moderni Tumma";
+"theme_standard" = "Vakio";
+"theme_modern" = "Moderni";
+"theme_dark" = "Tumma";
+
+// Calculator
+"calculator" = "Laskin";
+
+// Precious metals
+"gold" = "Kulta";
+"silver" = "Hopea";
+"palladium" = "Palladium";
+"platinum" = "Platina";

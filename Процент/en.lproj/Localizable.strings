@@ -1,0 +1,115 @@
+"settings" = "Settings";
+"languages" = "Languages";
+"done" = "Done";
+"cancel" = "Cancel";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Keyboard";
+"haptic_strength" = "Haptic Feedback";
+"weak" = "Weak";
+"medium" = "Medium";
+"strong" = "Strong";
+"keyboard_sound" = "Key Sound";
+
+// Error messages
+"error" = "Error";
+"future_date_error" = "System date error detected. The device's date is set to a future year, which prevents loading currency data. Please check and correct your date settings.";
+"future_date_alert" = "System date is from the future. Please update the app.";
+
+// Theme settings
+"theme" = "Theme";
+"theme_selection" = "Theme Selection";
+"classic" = "Classic";
+"modern" = "Modern";
+"changing_theme" = "Changing theme…";
+
+// Currency converter
+"enter_amount" = "Enter amount";
+"select_currency" = "Select Currency";
+"convert" = "Convert";
+"result" = "Result";
+"converter" = "Konvertum";
+"currencies" = "Currencies";
+"search" = "Search";
+"last_updated" = "Last updated: %@";
+"last_update" = "Last update";
+"copy" = "Copy";
+"add_currency" = "Add Currency";
+"delete" = "Delete";
+"edit" = "Edit";
+"edit_mode_hint" = "Delete currencies with the red button or drag by the ≡ icon to change order";
+
+// History view
+"history" = "History";
+"no_history" = "No conversion history";
+"clear_history" = "Clear History";
+"currency_history" = "Currency History";
+"period" = "Period";
+"chart_not_available" = "Chart is not available on iOS versions below 16.0";
+"min" = "Min: %@";
+"max" = "Max: %@";
+"close" = "Close";
+"date" = "Date";
+"rate" = "Rate";
+"no_data_for_display" = "No data to display.\nPlease select a different period or currencies.";
+"retry" = "Retry";
+"using_demo_data" = "Using demo data for %@";
+"no_data_for_period" = "No data for the selected period";
+"failed_to_load_data" = "Failed to get data for the selected currency pair.";
+"check_system_date" = "Check the system date on your device. The date should not be from the future.";
+"loading_data" = "Loading data...";
+"no_data" = "No data";
+"texture_not_found" = "Texture not found";
+"no_data_available" = "No data available";
+"api_unavailable" = "The currency data API is currently unavailable. Using offline mode.";
+"try_again" = "Try Again";
+"zoom_hint" = "Use gestures to zoom the chart";
+
+// Currency types
+"fiat_currencies" = "Fiat Currencies";
+"cryptocurrencies" = "Cryptocurrencies";
+"precious_metals" = "Precious Metals";
+"deprecated_currencies" = "Deprecated Currencies";
+"show_deprecated" = "Show Deprecated Currencies";
+
+// Time periods
+"1d" = "1D";
+"1w" = "1W";
+"1m" = "1M";
+"3m" = "3M";
+"6m" = "6M";
+"1y" = "1Y";
+"7_days" = "7 days";
+"1_month" = "1 month";
+"3_months" = "3 months";
+"6_months" = "6 months";
+"1_year" = "1 year";
+"2_years" = "2 years";
+"5_years" = "5 years";
+
+// Stats
+"open" = "Open";
+"high" = "High";
+"low" = "Low";
+"close" = "Close";
+"volume" = "Volume";
+"change" = "Change";
+
+// Theme names
+"theme_classic_light" = "Classic Light";
+"theme_classic_dark" = "Classic Dark";
+"theme_modern_light" = "Modern Light";
+"theme_modern_dark" = "Modern Dark";
+"theme_standard" = "Standard";
+"theme_modern" = "Modern";
+"theme_dark" = "Dark";
+
+// Calculator
+"calculator" = "Calculator";
+
+// Precious metals
+"gold" = "Gold";
+"silver" = "Silver";
+"palladium" = "Palladium";
+"platinum" = "Platinum";

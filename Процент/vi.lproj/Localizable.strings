@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Cài đặt";
+"languages" = "Ngôn ngữ";
+"done" = "Xong";
+"cancel" = "Hủy";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Bàn phím";
+"haptic_strength" = "Cường độ rung";
+"weak" = "Yếu";
+"medium" = "Trung bình";
+"strong" = "Mạnh";
+"keyboard_sound" = "Âm thanh phím";
+
+// Error messages
+"error" = "Lỗi";
+"future_date_error" = "Phát hiện lỗi ngày hệ thống. Ngày thiết bị được đặt vào năm tương lai, ngăn cản việc tải dữ liệu tỷ giá. Vui lòng kiểm tra và sửa cài đặt ngày.";
+"future_date_alert" = "Ngày hệ thống từ tương lai. Vui lòng cập nhật ứng dụng.";
+
+// Theme settings
+"theme" = "Chủ đề";
+"theme_selection" = "Lựa chọn chủ đề";
+"classic" = "Cổ điển";
+"modern" = "Hiện đại";
+"changing_theme" = "Đang thay đổi chủ đề…";
+
+// Currency converter
+"enter_amount" = "Nhập số tiền";
+"select_currency" = "Chọn tiền tệ";
+"convert" = "Chuyển đổi";
+"result" = "Kết quả";
+"converter" = "Bộ chuyển đổi tiền tệ";
+"currencies" = "Tiền tệ";
+"search" = "Tìm kiếm";
+"last_updated" = "Cập nhật lần cuối: %@";
+"last_update" = "Last update";
+"copy" = "Sao chép";
+"add_currency" = "Thêm tiền tệ";
+"delete" = "Xóa";
+"edit" = "Sửa";
+"edit_mode_hint" = "Xóa tiền tệ bằng nút đỏ hoặc kéo để sắp xếp lại";
+
+// History view
+"history" = "Lịch sử";
+"no_history" = "Không có lịch sử chuyển đổi";
+"clear_history" = "Xóa lịch sử";
+"currency_history" = "Lịch sử tiền tệ";
+"period" = "Thời kỳ";
+"chart_not_available" = "Biểu đồ có sẵn trên iOS 16 trở lên";
+"min" = "Tối thiểu: %@";
+"max" = "Tối đa: %@";
+"close" = "Đóng";
+"date" = "Ngày";
+"rate" = "Tỷ giá";
+"no_data_for_display" = "Không có dữ liệu để hiển thị.\nVui lòng chọn thời kỳ hoặc tiền tệ khác.";
+"retry" = "Thử lại";
+"using_demo_data" = "Sử dụng dữ liệu demo cho %@";
+"no_data_for_period" = "Không có dữ liệu cho thời kỳ đã chọn";
+"failed_to_load_data" = "Không thể tải dữ liệu cho cặp tiền tệ đã chọn.";
+"check_system_date" = "Kiểm tra ngày hệ thống trên thiết bị. Ngày không được từ tương lai.";
+"loading_data" = "Đang tải dữ liệu...";
+"no_data" = "Không có dữ liệu";
+"texture_not_found" = "Không tìm thấy texture";
+"no_data_available" = "Dữ liệu không có sẵn";
+"api_unavailable" = "API tỷ giá hiện không khả dụng. Đang sử dụng chế độ ngoại tuyến.";
+"try_again" = "Thử lại";
+
+// Currency types
+"fiat_currencies" = "Tiền tệ pháp định";
+"cryptocurrencies" = "Tiền điện tử";
+"precious_metals" = "Kim loại quý";
+"deprecated_currencies" = "Tiền tệ không còn sử dụng";
+"show_deprecated" = "Hiển thị tiền tệ không còn sử dụng";
+
+// Time periods
+"1d" = "1N";
+"1w" = "1T";
+"1m" = "1TH";
+"3m" = "3TH";
+"6m" = "6TH";
+"1y" = "1N";
+"7_days" = "7 ngày";
+"1_month" = "1 tháng";
+"3_months" = "3 tháng";
+"6_months" = "6 tháng";
+"1_year" = "1 năm";
+"2_years" = "2 năm";
+"5_years" = "5 năm";
+
+// Stats
+"open" = "Mở";
+"high" = "Cao";
+"low" = "Thấp";
+"close" = "Đóng";
+"volume" = "Khối lượng";
+"change" = "Thay đổi";
+
+// Theme names
+"theme_classic_light" = "Cổ điển sáng";
+"theme_classic_dark" = "Cổ điển tối";
+"theme_modern_light" = "Hiện đại sáng";
+"theme_modern_dark" = "Hiện đại tối";
+"theme_standard" = "Tiêu chuẩn";
+"theme_modern" = "Hiện đại";
+"theme_dark" = "Tối";
+
+// Calculator
+"calculator" = "Máy tính";
+
+// Precious metals
+"gold" = "Vàng";
+"silver" = "Bạc";
+"palladium" = "Palladium";
+"platinum" = "Bạch kim";

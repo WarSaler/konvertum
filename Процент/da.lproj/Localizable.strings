@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Indstillinger";
+"languages" = "Sprog";
+"done" = "Færdig";
+"cancel" = "Annuller";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Tastatur";
+"haptic_strength" = "Haptisk styrke";
+"weak" = "Svag";
+"medium" = "Medium";
+"strong" = "Stærk";
+"keyboard_sound" = "Tastaturlyd";
+
+// Error messages
+"error" = "Fejl";
+"future_date_error" = "Systemdatofejl opdaget. Enhedens dato er sat til et fremtidigt år, hvilket forhindrer indlæsning af valutadata. Kontroller og ret dine datoindstillinger.";
+"future_date_alert" = "Systemdato fra fremtiden. Opdater venligst appen.";
+
+// Theme settings
+"theme" = "Tema";
+"theme_selection" = "Tema valg";
+"classic" = "Klassisk";
+"modern" = "Moderne";
+"changing_theme" = "Skifter tema…";
+
+// Currency converter
+"enter_amount" = "Indtast beløb";
+"select_currency" = "Vælg valuta";
+"convert" = "Konverter";
+"result" = "Resultat";
+"converter" = "Valutaomregner";
+"currencies" = "Valutaer";
+"search" = "Søg";
+"last_updated" = "Sidst opdateret: %@";
+"last_update" = "Last update";
+"copy" = "Kopiér";
+"add_currency" = "Tilføj valuta";
+"delete" = "Slet";
+"edit" = "Rediger";
+"edit_mode_hint" = "Slet valutaer med den røde knap eller træk for at ændre rækkefølge";
+
+// History view
+"history" = "Historik";
+"no_history" = "Ingen konverteringshistorik";
+"clear_history" = "Ryd historik";
+"currency_history" = "Valutahistorik";
+"period" = "Periode";
+"chart_not_available" = "Graf tilgængelig på iOS 16 og nyere";
+"min" = "Min: %@";
+"max" = "Maks: %@";
+"close" = "Luk";
+"date" = "Dato";
+"rate" = "Kurs";
+"no_data_for_display" = "Ingen data at vise.\nVælg en anden periode eller valutaer.";
+"retry" = "Prøv igen";
+"using_demo_data" = "Bruger demodata for %@";
+"no_data_for_period" = "Ingen data for valgt periode";
+"failed_to_load_data" = "Kunne ikke indlæse data for valgt valutapar.";
+"check_system_date" = "Kontroller systemdato på enheden. Datoen må ikke være fra fremtiden.";
+"loading_data" = "Indlæser data...";
+"no_data" = "Ingen data";
+"texture_not_found" = "Tekstur ikke fundet";
+"no_data_available" = "Data ikke tilgængelig";
+"api_unavailable" = "Valutakurs API er i øjeblikket utilgængeligt. Bruger offline tilstand.";
+"try_again" = "Prøv igen";
+
+// Currency types
+"fiat_currencies" = "Almindelige valutaer";
+"cryptocurrencies" = "Kryptovalutaer";
+"precious_metals" = "Ædle metaller";
+"deprecated_currencies" = "Forældede valutaer";
+"show_deprecated" = "Vis forældede valutaer";
+
+// Time periods
+"1d" = "1D";
+"1w" = "1U";
+"1m" = "1M";
+"3m" = "3M";
+"6m" = "6M";
+"1y" = "1Å";
+"7_days" = "7 dage";
+"1_month" = "1 måned";
+"3_months" = "3 måneder";
+"6_months" = "6 måneder";
+"1_year" = "1 år";
+"2_years" = "2 år";
+"5_years" = "5 år";
+
+// Stats
+"open" = "Åbning";
+"high" = "Højeste";
+"low" = "Laveste";
+"close" = "Lukning";
+"volume" = "Volume";
+"change" = "Ændring";
+
+// Theme names
+"theme_classic_light" = "Klassisk Lys";
+"theme_classic_dark" = "Klassisk Mørk";
+"theme_modern_light" = "Moderne Lys";
+"theme_modern_dark" = "Moderne Mørk";
+"theme_standard" = "Standard";
+"theme_modern" = "Moderne";
+"theme_dark" = "Mørk";
+
+// Calculator
+"calculator" = "Lommeregner";
+
+// Precious metals
+"gold" = "Guld";
+"silver" = "Sølv";
+"palladium" = "Palladium";
+"platinum" = "Platin";

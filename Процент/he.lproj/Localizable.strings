@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "הגדרות";
+"languages" = "שפות";
+"done" = "סיום";
+"cancel" = "ביטול";
+"ok" = "אישור";
+
+// Keyboard settings
+"keyboard" = "מקלדת";
+"haptic_strength" = "עוצמת רטט";
+"weak" = "חלש";
+"medium" = "בינוני";
+"strong" = "חזק";
+"keyboard_sound" = "צליל מקלדת";
+
+// Error messages
+"error" = "שגיאה";
+"future_date_error" = "זוהתה שגיאת תאריך מערכת. תאריך המכשיר מוגדר לשנה עתידית, מה שמונע טעינת נתוני שערי החליפין. אנא בדוק ותקן את הגדרות התאריך.";
+"future_date_alert" = "תאריך המערכת הוא מהעתיד. אנא עדכן את האפליקציה.";
+
+// Theme settings
+"theme" = "ערכת נושא";
+"theme_selection" = "בחירת ערכת נושא";
+"classic" = "קלאסי";
+"modern" = "מודרני";
+"changing_theme" = "משנה ערכת נושא…";
+
+// Currency converter
+"enter_amount" = "הזן סכום";
+"select_currency" = "בחר מטבע";
+"convert" = "המר";
+"result" = "תוצאה";
+"converter" = "ממיר מטבעות";
+"currencies" = "מטבעות";
+"search" = "חיפוש";
+"last_updated" = "עודכן לאחרונה: %@";
+"last_update" = "עדכון אחרון";
+"copy" = "העתק";
+"add_currency" = "הוסף מטבע";
+"delete" = "מחק";
+"edit" = "ערוך";
+"edit_mode_hint" = "מחק מטבעות עם הכפתור האדום או גרור לשינוי סדר";
+
+// History view
+"history" = "היסטוריה";
+"no_history" = "אין היסטוריית המרות";
+"clear_history" = "נקה היסטוריה";
+"currency_history" = "היסטוריית מטבע";
+"period" = "תקופה";
+"chart_not_available" = "תרשים זמין ב-iOS 16 ומעלה";
+"min" = "מינימום %@";
+"max" = "מקסימום %@";
+"close" = "סגור";
+"date" = "תאריך";
+"rate" = "שער";
+"no_data_for_display" = "אין נתונים להצגה.\nאנא בחר תקופה או מטבעות אחרים.";
+"retry" = "נסה שוב";
+"using_demo_data" = "משתמש בנתוני הדגמה עבור %@";
+"no_data_for_period" = "אין נתונים לתקופה שנבחרה";
+"failed_to_load_data" = "נכשל בטעינת נתונים עבור צמד המטבעות שנבחר.";
+"check_system_date" = "בדוק תאריך מערכת במכשיר. התאריך לא צריך להיות מהעתיד.";
+"loading_data" = "טוען נתונים...";
+"no_data" = "אין נתונים";
+"texture_not_found" = "מרקם לא נמצא";
+"no_data_available" = "נתונים לא זמינים";
+"api_unavailable" = "API שערי החליפין אינו זמין כרגע. משתמש במצב לא מקוון.";
+"try_again" = "נסה שוב";
+
+// Currency types
+"fiat_currencies" = "מטבעות רגילים";
+"cryptocurrencies" = "מטבעות דיגיטליים";
+"precious_metals" = "מתכות יקרות";
+"deprecated_currencies" = "מטבעות שהוצאו משימוש";
+"show_deprecated" = "הצג מטבעות שהוצאו משימוש";
+
+// Time periods
+"1d" = "יום";
+"1w" = "שבוע";
+"1m" = "חודש";
+"3m" = "3 חודשים";
+"6m" = "6 חודשים";
+"1y" = "שנה";
+"7_days" = "7 ימים";
+"1_month" = "חודש";
+"3_months" = "3 חודשים";
+"6_months" = "6 חודשים";
+"1_year" = "שנה";
+"2_years" = "שנתיים";
+"5_years" = "5 שנים";
+
+// Stats
+"open" = "פתיחה";
+"high" = "גבוה";
+"low" = "נמוך";
+"close" = "סגירה";
+"volume" = "נפח";
+"change" = "שינוי";
+
+// Theme names
+"theme_classic_light" = "קלאסי בהיר";
+"theme_classic_dark" = "קלאסי כהה";
+"theme_modern_light" = "מודרני בהיר";
+"theme_modern_dark" = "מודרני כהה";
+"theme_standard" = "רגיל";
+"theme_modern" = "מודרני";
+"theme_dark" = "כהה";
+
+// Calculator
+"calculator" = "מחשבון";
+
+// Precious metals
+"gold" = "זהב";
+"silver" = "כסף";
+"palladium" = "פלדיום";
+"platinum" = "פלטינה";

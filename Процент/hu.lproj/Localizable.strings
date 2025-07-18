@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "Beállítások";
+"languages" = "Nyelvek";
+"done" = "Kész";
+"cancel" = "Mégse";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Billentyűzet";
+"haptic_strength" = "Tapintási visszajelzés";
+"weak" = "Gyenge";
+"medium" = "Közepes";
+"strong" = "Erős";
+"keyboard_sound" = "Billentyűzethang";
+
+// Error messages
+"error" = "Hiba";
+"future_date_error" = "Rendszerdátum hiba észlelve. Az eszköz dátuma jövőbeli évre van állítva.";
+"future_date_alert" = "A rendszerdátum a jövőből származik. Kérjük, frissítse az alkalmazást.";
+
+// Theme settings
+"theme" = "Téma";
+"theme_selection" = "Téma kiválasztása";
+"classic" = "Klasszikus";
+"modern" = "Modern";
+"changing_theme" = "Téma váltása…";
+
+// Currency converter
+"enter_amount" = "Adja meg az összeget";
+"select_currency" = "Válasszon pénznemet";
+"convert" = "Átváltás";
+"result" = "Eredmény";
+"converter" = "Pénznemváltó";
+"currencies" = "Pénznemek";
+"search" = "Keresés";
+"last_updated" = "Utoljára frissítve: %@";
+"last_update" = "Last update";
+"copy" = "Másolás";
+"add_currency" = "Pénznem hozzáadása";
+"delete" = "Törlés";
+"edit" = "Szerkesztés";
+"edit_mode_hint" = "Törölje a pénznemeket a piros gombbal vagy húzza át a sorrend megváltoztatásához";
+
+// History view
+"history" = "Előzmények";
+"no_history" = "Nincs átváltási előzmény";
+"clear_history" = "Előzmények törlése";
+"currency_history" = "Árfolyam előzmények";
+"period" = "Időszak";
+"chart_not_available" = "A grafikon iOS 16 és újabb verziókon érhető el";
+"min" = "Min %@";
+"max" = "Max %@";
+"close" = "Bezárás";
+"date" = "Dátum";
+"rate" = "Árfolyam";
+"no_data_for_display" = "Nincs megjeleníthető adat.\nKérjük, válasszon másik időszakot vagy pénznemeket.";
+"retry" = "Újra";
+"using_demo_data" = "Demó adatok használata: %@";
+"no_data_for_period" = "Nincs adat a kiválasztott időszakra";
+"failed_to_load_data" = "Nem sikerült betölteni az adatokat a kiválasztott pénznempárhoz.";
+"check_system_date" = "Ellenőrizze az eszköz rendszerdátumát. A dátum nem lehet a jövőből.";
+"loading_data" = "Adatok betöltése...";
+"no_data" = "Nincs adat";
+"texture_not_found" = "Textúra nem található";
+"no_data_available" = "Nincs elérhető adat";
+"api_unavailable" = "Az árfolyamok API jelenleg nem elérhető. Offline mód használatban.";
+"try_again" = "Próbálja újra";
+
+// Currency types
+"fiat_currencies" = "Hagyományos pénznemek";
+"cryptocurrencies" = "Kriptovaluták";
+"precious_metals" = "Nemesfémek";
+"deprecated_currencies" = "Elavult pénznemek";
+"show_deprecated" = "Elavult pénznemek megjelenítése";
+
+// Time periods
+"1d" = "1N";
+"1w" = "1H";
+"1m" = "1H";
+"3m" = "3H";
+"6m" = "6H";
+"1y" = "1É";
+"7_days" = "7 nap";
+"1_month" = "1 hónap";
+"3_months" = "3 hónap";
+"6_months" = "6 hónap";
+"1_year" = "1 év";
+"2_years" = "2 év";
+"5_years" = "5 év";
+
+// Stats
+"open" = "Nyitó";
+"high" = "Maximum";
+"low" = "Minimum";
+"close" = "Záró";
+"volume" = "Forgalom";
+"change" = "Változás";
+
+// Theme names
+"theme_classic_light" = "Klasszikus világos";
+"theme_classic_dark" = "Klasszikus sötét";
+"theme_modern_light" = "Modern világos";
+"theme_modern_dark" = "Modern sötét";
+"theme_standard" = "Szabványos";
+"theme_modern" = "Modern";
+"theme_dark" = "Sötét";
+
+// Calculator
+"calculator" = "Számológép";
+
+// Precious metals
+"gold" = "Arany";
+"silver" = "Ezüst";
+"palladium" = "Palládium";
+"platinum" = "Platina";

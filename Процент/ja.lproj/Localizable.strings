@@ -1,0 +1,117 @@
+// Файл синхронизирован с en.lproj/Localizable.strings
+// Все ключи приведены к эталону, дубли удалены, недостающие переводы добавлены с русского
+
+"settings" = "設定";
+"languages" = "言語";
+"done" = "完了";
+"cancel" = "キャンセル";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "キーボード";
+"haptic_strength" = "触覚フィードバック";
+"weak" = "弱";
+"medium" = "中";
+"strong" = "強";
+"keyboard_sound" = "キー音";
+
+// Error messages
+"error" = "エラー";
+"future_date_error" = "システム日付エラーが検出されました。デバイスの日付が未来の年に設定されています。";
+"future_date_alert" = "システム日付が未来になっています。アプリを更新してください。";
+
+// Theme settings
+"theme" = "テーマ";
+"theme_selection" = "テーマ選択";
+"classic" = "クラシック";
+"modern" = "モダン";
+"changing_theme" = "テーマを変更中…";
+
+// Currency converter
+"enter_amount" = "金額を入力";
+"select_currency" = "通貨を選択";
+"convert" = "変換";
+"result" = "結果";
+"converter" = "コンバーター";
+"currencies" = "通貨";
+"search" = "検索";
+"last_updated" = "最終更新：%@";
+"last_update" = "最終更新";
+"copy" = "コピー";
+"add_currency" = "通貨を追加";
+"delete" = "削除";
+"edit" = "編集";
+"edit_mode_hint" = "赤いボタンで通貨を削除するか、ドラッグして順序を変更してください";
+
+// History view
+"history" = "履歴";
+"no_history" = "変換履歴がありません";
+"clear_history" = "履歴をクリア";
+"currency_history" = "通貨履歴";
+"period" = "期間";
+"chart_not_available" = "チャートはiOS 16.0+で利用可能";
+"min" = "最小：%@";
+"max" = "最大：%@";
+"close" = "閉じる";
+"date" = "日付";
+"rate" = "レート";
+"no_data_for_display" = "表示するデータがありません。\n別の期間または通貨を選択してください。";
+"retry" = "再試行";
+"using_demo_data" = "%@のデモデータを使用";
+"no_data_for_period" = "選択した期間のデータがありません";
+"failed_to_load_data" = "選択した通貨ペアのデータの読み込みに失敗しました。";
+"check_system_date" = "デバイスのシステム日付を確認してください。日付は未来のものであってはいけません。";
+"loading_data" = "データを読み込み中...";
+"no_data" = "データなし";
+"texture_not_found" = "テクスチャが見つかりません";
+"no_data_available" = "利用可能なデータがありません";
+"api_unavailable" = "通貨データAPIは現在利用できません。オフラインモードを使用しています。";
+"try_again" = "再試行";
+
+// Currency types
+"fiat_currencies" = "法定通貨";
+"cryptocurrencies" = "暗号通貨";
+"precious_metals" = "貴金属";
+"deprecated_currencies" = "非推奨通貨";
+"show_deprecated" = "非推奨通貨を表示";
+
+// Time periods
+"1d" = "1日";
+"1w" = "1週";
+"1m" = "1月";
+"3m" = "3月";
+"6m" = "6月";
+"1y" = "1年";
+"7_days" = "7日";
+"1_month" = "1ヶ月";
+"3_months" = "3ヶ月";
+"6_months" = "6ヶ月";
+"1_year" = "1年";
+"2_years" = "2年";
+"5_years" = "5年";
+
+// Stats
+"open" = "始値";
+"high" = "高値";
+"low" = "安値";
+"close" = "終値";
+"volume" = "出来高";
+"change" = "変化";
+
+// Theme names
+"theme_classic_light" = "クラシック ライト";
+"theme_classic_dark" = "クラシック ダーク";
+"theme_modern_light" = "モダン ライト";
+"theme_modern_dark" = "モダン ダーク";
+"theme_standard" = "スタンダード";
+"theme_modern" = "モダン";
+"theme_dark" = "ダーク";
+
+// Calculator
+"calculator" = "計算機";
+
+// Precious metals
+"gold" = "金";
+"silver" = "銀";
+"palladium" = "パラジウム";
+"platinum" = "プラチナ";

@@ -1,0 +1,117 @@
+// File synchronized with en.lproj/Localizable.strings
+// All keys aligned to the standard, duplicates removed, missing translations added from Russian
+
+"settings" = "Mga Setting";
+"languages" = "Mga Wika";
+"done" = "Tapos Na";
+"cancel" = "Kanselahin";
+"ok" = "OK";
+
+// Keyboard settings
+"keyboard" = "Keyboard";
+"haptic_strength" = "Lakas ng Haptic";
+"weak" = "Mahina";
+"medium" = "Katamtaman";
+"strong" = "Malakas";
+"keyboard_sound" = "Tunog ng Keyboard";
+
+// Error messages
+"error" = "Mali";
+"future_date_error" = "Nadetektahan ang error sa petsa ng sistema. Ang petsa ng device ay nakatakda sa hinaharap na taon.";
+"future_date_alert" = "Ang petsa ng sistema ay galing sa hinaharap. Mangyaring i-update ang app.";
+
+// Theme settings
+"theme" = "Tema";
+"theme_selection" = "Pagpili ng tema";
+"classic" = "Klasiko";
+"modern" = "Makabago";
+"changing_theme" = "Binabago ang tema…";
+
+// Currency converter
+"enter_amount" = "Maglagay ng Halaga";
+"select_currency" = "Pumili ng Currency";
+"convert" = "I-convert";
+"result" = "Resulta";
+"converter" = "Konvertum";
+"currencies" = "Mga Currency";
+"search" = "Maghanap";
+"last_updated" = "Huling Na-update: %@";
+"last_update" = "Last update";
+"copy" = "Kopyahin";
+"add_currency" = "Magdagdag ng pera";
+"delete" = "Tanggalin";
+"edit" = "I-edit";
+"edit_mode_hint" = "Tanggalin ang mga pera gamit ang pulang button o i-drag para sa pagkakaayos";
+
+// History view
+"history" = "Kasaysayan";
+"no_history" = "Walang Kasaysayan ng Conversion";
+"clear_history" = "Burahin ang Kasaysayan";
+"currency_history" = "Kasaysayan ng Currency";
+"period" = "Panahon";
+"chart_not_available" = "Chart ay available sa iOS 16 at mas mataas";
+"min" = "Minimum: %@";
+"max" = "Maximum: %@";
+"close" = "Isara";
+"date" = "Petsa";
+"rate" = "Rate";
+"no_data_for_display" = "Walang data na maipapakita.\nPakipili ng ibang panahon o pera.";
+"retry" = "Subukan muli";
+"using_demo_data" = "Gumagamit ng demo data para sa %@";
+"no_data_for_period" = "Walang data para sa napiling panahon";
+"failed_to_load_data" = "Failed to load data for selected currency pair.";
+"check_system_date" = "Check system date on device. Date must not be from future.";
+"loading_data" = "Naglo-load ng data...";
+"no_data" = "Walang data";
+"texture_not_found" = "Hindi nahanap ang texture";
+"no_data_available" = "Walang available na data";
+"api_unavailable" = "Currency rates API is currently unavailable. Using offline mode.";
+"try_again" = "Subukan muli";
+
+// Currency types
+"fiat_currencies" = "Mga Fiat na Pera";
+"cryptocurrencies" = "Mga Cryptocurrency";
+"precious_metals" = "Mga Mahalagang Metal";
+"deprecated_currencies" = "Mga lumang pera";
+"show_deprecated" = "Ipakita ang mga lumang pera";
+
+// Time periods
+"1d" = "1 Araw";
+"1w" = "1 Linggo";
+"1m" = "1 Buwan";
+"3m" = "3 Buwan";
+"6m" = "6 na Buwan";
+"1y" = "1 Taon";
+"7_days" = "7 Araw";
+"1_month" = "1 Buwan";
+"3_months" = "3 Buwan";
+"6_months" = "6 na Buwan";
+"1_year" = "1 Taon";
+"2_years" = "2 Taon";
+"5_years" = "5 Taon";
+
+// Stats
+"open" = "Bukas";
+"high" = "Mataas";
+"low" = "Mababa";
+"close" = "Sarado";
+"volume" = "Volume";
+"change" = "Pagbabago";
+
+// Theme names
+"theme_classic_light" = "Classic Light";
+"theme_classic_dark" = "Classic Dark";
+"theme_modern_light" = "Modern Light";
+"theme_modern_dark" = "Modern Dark";
+"theme_standard" = "Karaniwan";
+"theme_modern" = "Makabago";
+"theme_dark" = "Madilim";
+
+// Calculator
+"calculator" = "Kalkuladora";
+
+// Precious metals
+"gold" = "Ginto";
+"silver" = "Pilak";
+"palladium" = "Palyadium";
+"platinum" = "Platinum";
